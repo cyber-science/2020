@@ -26,7 +26,11 @@
         }); 
         $("body").on('click',"#camera-ready",function(){ 
             $('#mainDiv').load('camera-ready.html');
-        }); 
+        });
+        //Add accepted paper suggested by Dr. Delicato ---- Added by Eric 2020-07-03 
+        $("body").on('click',"#acceptedPapers",function(){ 
+            $('#mainDiv').load('acceptedPapers.html');
+        });
     });
 /*COMMITTEES*/  
     $(document).ready(function(){
