@@ -31,6 +31,11 @@
         $("body").on('click',"#acceptedPapers",function(){ 
             $('#mainDiv').load('acceptedPapers.html');
         });
+        
+        //---Presenation video submission page - Added by Eric 20200710
+        $("body").on('click',"#presentation-video-submission",function(){ 
+            $('#mainDiv').load('presentation-video-submission.html');
+        });
     });
 /*COMMITTEES*/  
     $(document).ready(function(){

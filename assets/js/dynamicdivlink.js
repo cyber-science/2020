@@ -28,6 +28,7 @@
         $("body").on('click',"#camera-ready",function(){ 
             $('#mainDiv').load('camera-ready.html');
         }); 
+        //---Presenation video submission page - Added by Eric 20200710
         $("body").on('click',"#presentation-video-submission",function(){ 
             $('#mainDiv').load('presentation-video-submission.html');
         });
