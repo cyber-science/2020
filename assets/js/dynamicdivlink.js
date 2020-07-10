@@ -28,6 +28,9 @@
         $("body").on('click',"#camera-ready",function(){ 
             $('#mainDiv').load('camera-ready.html');
         }); 
+        $("body").on('click',"#presentation-video-submission",function(){ 
+            $('#mainDiv').load('presentation-video-submission.html');
+        });
     });
 /*COMMITTEES*/  
     $(document).ready(function(){
