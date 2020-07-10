@@ -26,14 +26,14 @@
         }); 
         $("body").on('click',"#camera-ready",function(){ 
             $('#mainDiv').load('camera-ready.html');
-        }); 
-        //---Presenation video submission page - Added by Eric 20200710
-        $("body").on('click',"#presentation-video-submission",function(){ 
-            $('#mainDiv').load('presentation-video-submission.html');
         });
         //Add accepted paper suggested by Dr. Delicato ---- Added by Eric 2020-07-10 
         $("body").on('click',"#acceptedPapers",function(){ 
             $('#mainDiv').load('acceptedPapers.html');
+        });
+        //---Presenation video submission page - Added by Eric 20200710
+        $("body").on('click',"#presentation-video-submission",function(){ 
+            $('#mainDiv').load('presentation-video-submission.html');
         });
     });
 /*COMMITTEES*/  
