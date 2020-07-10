@@ -31,6 +31,10 @@
         $("body").on('click',"#presentation-video-submission",function(){ 
             $('#mainDiv').load('presentation-video-submission.html');
         });
+        //Add accepted paper suggested by Dr. Delicato ---- Added by Eric 2020-07-10 
+        $("body").on('click',"#acceptedPapers",function(){ 
+            $('#mainDiv').load('acceptedPapers.html');
+        });
     });
 /*COMMITTEES*/  
     $(document).ready(function(){
