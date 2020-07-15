@@ -76,4 +76,8 @@
             $('#mainDiv').load('edi.html');
         }); 
         
+        // Add dynamic link to online conference page -- Added by Eric -20200715
+        $("body").on('click',"#onlineConference",function(){ 
+            $('#mainDiv').load('onlineConference.html');
+        }); 
     });
