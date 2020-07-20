@@ -15,7 +15,10 @@
      $("body").on('click',"#summer-school",function(){
                     $('#mainDiv').load('summer-school.html');
         });
-                    
+        //welcome video test link --- Added by Eric - 20200720
+     $("body").on('click',"#welcome-video",function(){
+                    $('#mainDiv').load('welcome-video.html');
+        });               
     });
 /*AUTHORS*/  
     $(document).ready(function(){
