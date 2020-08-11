@@ -1,16 +1,16 @@
 /*PROGRAM*/  
     $(document).ready(function(){
-        $("body").on('click',"#cyberscitech",function(){ 
-            $('#mainDiv').load('http://cyber-science.org/2020/cyberscitech/');
+        $("body").on('click',"#cyberscitech",function(){
+            window.location.replace("http://cyber-science.org/2020/cyberscitech/");
         }); 
         $("body").on('click',"#cbdcom",function(){ 
-            $('#mainDiv').load('http://cyber-science.org/2020/cbdcom/');
+            window.location.replace('http://cyber-science.org/2020/cbdcom/');
         }); 
-        $("body").on('click',"#picom",function(){ 
-            $('#mainDiv').load('http://cyber-science.org/2020/picom/');
+        $("body").on('click',"#picom",function(){
+            window.location.replace('http://cyber-science.org/2020/picom/');
         }); 
         $("body").on('click',"#dasc",function(){ 
-            $('#mainDiv').load('http://cyber-science.org/2020/dasc/');
+            window.location.replace('http://cyber-science.org/2020/dasc/');
         }); 
     });
 /*ATTEND*/  
