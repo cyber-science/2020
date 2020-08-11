@@ -1,0 +1,50 @@
+Call for Papers
+
+CallforPapers-ADSN2020.pdf
+
+The Nineteenth International Workshop on Assurance in Distributed Systems and Networks (ADSN 2020)
+Calgary, Canada, June 22 - 26, 2020
+ADSN 2020 will be held in conjunction with the 18th IEEE International Conference on Dependable, Autonomic and Secure Computing (DASC 2020), Calgary, Canada, June 22 – 26, 2020. (see for details http://cyber-science.org/2020/dasc/).
+ADSN 2020 is the nineteenth edition of this International Workshop demonstrating its long-term continuity and continuously received recognition. The objective of the Workshop is to provide an effective forum for original scientific and engineering advances in Assurance in Distributed Systems and Networks. Along with recent rapid growth of the Internet and ubiquitous networks, applications for autonomous decentralized systems are emerging in many important areas like transportation, automotive systems, smart energy grids and the Internet of Things (IoT) to name a few. In these distributed systems and networks, heterogeneous requirements are independently generated and the requirements themselves are frequently changing. Assurance in these distributed systems and networks is defined as capability of guaranteeing functional and non-functional system properties such as dependability, security, timeliness and adaptability in heterogeneous and  changing  environments. The workshop theme is critical in meeting ever more demanding requirements for assurance in systems and networks. Technologies supporting assurance including integration of various fields such as real time, fault tolerance, autonomy, mobility and intelligence will have to be incorporated in complex distributed systems and networks.
+Topics of interest for this workshop include, but are not limited to:
+•	Assurance technologies for new generation networks
+•	Assurance in cooperative embedded, grid, and cloud computing systems
+•	Assurance in service-oriented and web-service based computing systems
+•	Critical infrastructure protection
+•	Heterogeneous systems coexistence and consistency technologies
+•	Network control (QoS, QoE, CoS, etc) technologies for assurance
+•	Self-stabilization and sensor networks assurance
+•	Agents technologies for assurance
+•	Assurance in safety-critical automotive and avionic systems
+•	Software and hardware technologies for assurance in intelligent transportation systems, train control, and space computers
+•	System life-cycle assurance in specification, design, implementation, testing, verification, and validation
+•	Assurance in IoT systems
+•	Security technologies for assurance
+•	System management and proactive fault management technologies for assurance
+•	Technologies for achieving high assurance in complex systems
+
+Papers and Submissions
+Papers must be written in English, and they have to be Postscript, PDF, or Word format. The complete manuscript should be no more than 6 pages following IEEE conference proceedings style and guidelines. The following information must be provided on a cover sheet:
+(1)	paper title, full name, affiliation of the author(s)
+(2)	full name, affiliation, complete address, phone and fax numbers and email address of the author to be contacted, as well as
+(3)	an abstract (up to 150 words).
+
+Important Dates
+Paper Submission Deadline: March 1, 2020
+Acceptance Notification Date: April 1, 2020
+Camera-ready deadline: May 10, 2020
+
+General Co-Chairs 
+Tomohiro Otani, KDDI Research, Inc., Japan
+Yoshiaki Kakuda, Hiroshima City University, Japan
+
+Program Chair
+Junichi Funasaka, Hiroshima City University, Japan
+
+Vice Program Chairs
+Eiji Utsunomiya, KDDI Research, Inc., Japan
+Elisa Bertino, Purdue University, U.S.A.
+Felicita Di Giandomenico, ISTI-CNR, Italy
+
+Program Committee
+TBD
